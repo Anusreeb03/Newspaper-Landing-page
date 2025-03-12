@@ -13,13 +13,6 @@ This is a simple, responsive newspaper landing page or layout built using **HTML
 - Fully responsive layout that works on mobile and desktop devices.
 - Easy navigation between posts and sections.
 
-## Screenshots
-
-Here are some screenshots of the website:
-
-### Homepage
-![Homepage](./assets/screenshot-homepage.png)
-
 ## Live Demo
 
 You can view the live demo of the website at the following link:
